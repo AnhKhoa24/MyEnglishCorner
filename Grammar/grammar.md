@@ -56,3 +56,25 @@ To-verb có thể đứng sau một tính từ
 > EX: The property owner is wiling to pay for necessary renovations
 >
 > (Chủ tòa nhà sẵn sàng trả tiền cho những cải tạo cần thiết)
+
+#### 1.1.3 Be + Adjective (Cảm xúc) + To-verd
+
+| pleased (hài lòng) | honored (chính xác) | excited (hào hứng)     |
+| :------------------- | :-------------------- | :----------------------- |
+| pround (tự hào)    | fortunate (may mắn)  | surprised (ngạc nhiên) |
+
+> EX: We are pleased to offer you the position of reseacher
+>
+> (Chúng tôi rất vui đề nghị bạn ví trí nhà nghiên cứu)
+
+#### 1.1.4 Verb + Object + To-verb
+
+| ask (yêu cầu)            | require (yêu cầu)         | request (yêu cầu)     |
+| :------------------------- | --------------------------- | :---------------------- |
+| invite (mời)              | expect (mong đợi)         | permit (cho phép)      |
+| encourage (khuyến khích) | enable (cho phép làm gì) | instruct (hướng dẫn) |
+| force (bắt buộc)         | advise (khuyên)            | remind (nhắc nhở)     |
+
+> EX: Your generous donation enable us to hold this year's exhibition
+>
+> (Sự đóng góp hào phóng của bạn đã giúp chúng tôi tổ chức triển lãm năm nay)

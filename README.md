@@ -4,7 +4,7 @@ Chào mừng đến với hành trình học tiếng Anh mỗi ngày. Dưới đ
 
 ## 📅 Nhật ký học tập
 
-- [Day 1 (Tổng ôn ngữ pháp)](./day1.md "day1")
+- [Day 1 (Tổng ôn ngữ pháp)](./Grammar/grammar.md "day1")
 
 ## 📚 Kiến thức chuyên đề
 
